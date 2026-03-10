@@ -23,9 +23,9 @@ In this implementation, a simpler comparison method is used where every pair of 
 
 ## Time Complexity
 
-The basic comparison approach used in this program runs in **O(n²)** time because every point is compared with every other point.
+The basic comparison approach used in this program runs in O(n²) time because every point is compared with every other point.
 
-The more advanced divide and conquer version can achieve **O(n log n)** time complexity.
+The more advanced divide and conquer version can achieve O(n log n) time complexity.
 
 
 ## Implementation
