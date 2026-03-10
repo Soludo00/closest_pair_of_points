@@ -48,3 +48,10 @@ While working on this algorithm I learned more about:
 - how divide and conquer algorithms can improve efficiency
 - how computational geometry problems are approached
 
+
+
+## Program Output
+
+Below is a screenshot of the program running in VS Code.
+
+![Merge Sort](closeset_point.png)
